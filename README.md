@@ -1,17 +1,130 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Warisara Yamma
-=======================================================================================================================================
+# 👩🏻‍💻 Warisara Yamma (Waris)
+
+#### Hello , my name is Warisara Yamma , and you can call me Waris
+
+##### I graduated with a degree in Computer Science , and I am currently seeking an opportunity to start my career in a full-time position where I can develop my skills and gain valuable professional experience.
+
+> 💻 Interested in UX/UI design with a strong passion for creating user-centered experiences. Continuously seeking opportunities to learn , improve design skills , and explore related areas to build a versatile skill set and support long-term career growth.
+
+#
+
+#### About Me 📜
+
+* 🎓 Bachelor of Science Program in Computer Science
+* 🏫 Kasetsart University , Sriracha Campus
+* 🏅 Second Class Honours **|** GPA : 3.4x
+* 💭 Always exploring new technologies and development practices
+* 🎧 MBTI : INFJ
+* 🏡 Bangkok , Thailand
+
+#
+
+#### Tech Stack 🧩
+
+##### 🖥️ Front-End Development
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue" />
 </p>
 
-### Socials
+##### ⚙️ Back-End Development
 
-<p align="left"> <a href="https://www.github.com/Wariisara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,nodejs,php" />
+</p>
 
-<b>My GitHub Stats</b>
+##### 🗄️ Database
 
-<a href="http://www.github.com/Wariisara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wariisara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
 
-<a href="https://github.com/Wariisara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wariisara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+##### 🎨 Design & Prototyping
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+##### 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+##### 📊 Data Analytics & Visualization
+
+* Tableau
+* Data Analysis
+* Dashboard Development
+* Business Intelligence
+
+#
+
+#### Core Skills 🎯
+
+✔ UX/UI Design
+
+✔ Front-End Development
+
+✔ Responsive Web Design
+
+✔ Data Analytics & Visualization
+
+✔ System Analysis & Design
+
+✔ Software Testing
+
+✔ Agile Team Collaboration
+
+#
+
+#### Soft Skills 🤝
+
+* Problem Solving
+* Team Collaboration
+* Communication
+* Adaptability
+* Critical Thinking
+* Time Management
+* Continuous Learning
+
+#
+
+#### Experience 💼
+
+##### ATS Software Development Intern - ALSTOM Transport Systems (Thailand) Ltd.
+
+**📅 May 2025 - October 2025**
+
+* Designed a Lesson Learned project , covering the entire process from UX/UI design , development , and system testing to code handover for future company employees.
+* Enhanced graphical interfaces for railway station systems and executed test case-based validation to ensure system reliability and adherence to requirements.
+
+#
+
+#### Featured Projects 📂
+
+##### ☕ Inventory Management and Data Analytics System for Cafe Decision Making
+
+###### Senior Project
+
+* Developed a responsive web application for inventory management
+* Enabled real-time stock tracking and monitoring
+* Implemented data analytics features to support business decision-making
+* Focused on improving operational efficiency for cafe businesses
+
+#
+
+#### Certifications 🏆 
+
+* 📜 AppSheet Certification
+* 📜 Figma Certification
+* 📜 Good Student Certificate
+* 📜 Network Cabling Certification
+
+---
+
+#### Contact Me 📫 
+
+📧 [warisarayamma@gmail.com](mailto:warisarayamma@gmail.com)
+
+💻 GitHub : github.com/Wariisara
