@@ -13,7 +13,7 @@
 * 🎓 Bachelor of Science Program in Computer Science
 * 🏫 Kasetsart University , Sriracha Campus
 * 🏅 Second Class Honours **|** GPA : 3.4x
-* 💭 Always exploring new technologies and development practices
+* 💭 Calm under pressure , responsible , and a collaborative team player
 * 🎧 MBTI : INFJ
 * 🏡 Bangkok , Thailand
 
